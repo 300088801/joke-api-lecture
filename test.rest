@@ -16,3 +16,8 @@ Content-Type: application/json
   "joke": "This is a joke",
   "punchline": "This is a punchline"
 } 
+
+
+### Get joke by id
+
+GET {{url}}/api/v1/joke/6615ca3912ed174d1e07c99a
